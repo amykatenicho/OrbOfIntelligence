@@ -1,0 +1,3 @@
+C:\Users\amynic\Documents\GitHub\OrbOfIntelligence\Orb_AzureML_Integration\DisplayAvgSentiment_AzureML\DisplayAvgSentiment\bin\Debug\DisplayAvgSentiment.exe.config
+C:\Users\amynic\Documents\GitHub\OrbOfIntelligence\Orb_AzureML_Integration\DisplayAvgSentiment_AzureML\DisplayAvgSentiment\obj\Debug\DisplayAvgSentiment.exe
+C:\Users\amynic\Documents\GitHub\OrbOfIntelligence\Orb_AzureML_Integration\DisplayAvgSentiment_AzureML\DisplayAvgSentiment\obj\Debug\DisplayAvgSentiment.pdb

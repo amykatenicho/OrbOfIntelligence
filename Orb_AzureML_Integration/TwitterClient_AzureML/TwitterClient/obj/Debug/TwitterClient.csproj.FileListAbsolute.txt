@@ -1,0 +1,3 @@
+C:\Users\amynic\Documents\GitHub\OrbOfIntelligence\Orb_AzureML_Integration\TwitterClient_AzureML\TwitterClient\bin\Debug\TwitterClient.exe.config
+C:\Users\amynic\Documents\GitHub\OrbOfIntelligence\Orb_AzureML_Integration\TwitterClient_AzureML\TwitterClient\obj\Debug\TwitterClient.exe
+C:\Users\amynic\Documents\GitHub\OrbOfIntelligence\Orb_AzureML_Integration\TwitterClient_AzureML\TwitterClient\obj\Debug\TwitterClient.pdb
